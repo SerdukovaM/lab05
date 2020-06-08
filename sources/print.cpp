@@ -1,5 +1,5 @@
  
-#include <print.cpp>
+#include "print.h"
 
 void print(const std::string& text, std::ostream& out)
 {
